@@ -15,7 +15,8 @@ namespace ClasePersona
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
-			
+			Persona Alumno= new Persona("Rodrigo","Diaz Lopez",44420254, 1800, 8);
+			Alumno.Imprimir();
 			// TODO: Implement Functionality Here
 			
 			Console.Write("Press any key to continue . . . ");

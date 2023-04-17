@@ -1,0 +1,5 @@
+D:\Usuarios\Alumno\Documentos\UNAJ\AyP-Com3\ClasePersona\Main\ClasePersona\bin\Debug\ClasePersona.exe
+D:\Usuarios\Alumno\Documentos\UNAJ\AyP-Com3\ClasePersona\Main\ClasePersona\bin\Debug\ClasePersona.pdb
+D:\Usuarios\Alumno\Documentos\UNAJ\AyP-Com3\ClasePersona\Main\ClasePersona\obj\Debug\ClasePersona.csprojResolveAssemblyReference.cache
+D:\Usuarios\Alumno\Documentos\UNAJ\AyP-Com3\ClasePersona\Main\ClasePersona\obj\Debug\ClasePersona.exe
+D:\Usuarios\Alumno\Documentos\UNAJ\AyP-Com3\ClasePersona\Main\ClasePersona\obj\Debug\ClasePersona.pdb

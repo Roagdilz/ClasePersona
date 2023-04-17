@@ -17,9 +17,9 @@ namespace ClasePersona
 	{
 		string nombre;
 		string apellido;
-		long dni;
+		private long dni;
 		int legajo;
-		int nota;
+		private int nota;
 		
 		//Constructores
 		public Persona()
@@ -63,16 +63,13 @@ namespace ClasePersona
 			get{
 				return this.dni;
 			}
-			set{
-				this.dni = value;
-			}
 		}
 		public int Legajo{
 			get{
 				return this.legajo;
 			}
 			set{
-				this.legajo = value;
+				this.legajo =(int) value;
 			}
 		}
 		public int Nota{
@@ -80,7 +77,7 @@ namespace ClasePersona
 				return this.nota;
 			}
 			set{
-				this.nota = value;
+				this.nota = (int) value;
 			}
 		}
 	}
